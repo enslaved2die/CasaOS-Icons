@@ -1,7 +1,10 @@
 # CasaOS Icons
 A collection of Icons for CasaOS
 
-The Affinity Designer Project File is open for use and falls under MIT.
+Includes a Affinity Designer Base Project File.
 
-Icons of apps are copyrighted and therefore this repositiy can not be widely used as "Open Source" sorry.
-I rely on Fair Use, if the copyright owner wants an Icon removed please contact me.
+## Disclaimer
+
+Unless otherwise indicated, all images and assets in this repository, including product names, trademarks, and registered trademarks, are the property of their respective owners. These images and assets are used for identification purposes only, and their use does not imply endorsement.
+
+Read the LICENSE for more information about the project itself. For questions or concerns, contact us at info@sellke.net
