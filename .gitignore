@@ -1,2 +1,3 @@
 
 *.afdesign~lock~
+.DS_Store
